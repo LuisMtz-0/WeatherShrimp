@@ -12,6 +12,10 @@
 Head over to the Github repository an press the copy files with http or your key to have the files downloaded in your personal device
 
 ## Usage 
+Repository:  https://github.com/LuisMtz-0/WeatherShrimp
+Deployed Page: https://luismtz-0.github.io/WeatherShrimp/
+
+Once in the page all that is needed is a correct City, State, or a location name for the website to show you the weather data for that day and coming 5 days after that.
 
 ## License 
 Please head over to the repository
